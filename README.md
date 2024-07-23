@@ -1,6 +1,6 @@
 # Untitled_Knight_Game
 
-This is a quick time video game like the classic laserdisc arcade games that takes place in worlds from the silent film era.
+This is a quick-time video game like the classic laserdisc arcade games that take place in worlds from the silent film era.
 
 The player can use either WASD or the arrow keys.
 
