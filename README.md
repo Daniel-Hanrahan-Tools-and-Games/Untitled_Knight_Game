@@ -2,6 +2,8 @@
 
 This is a quick time video game like the classic laserdisc arcade games that takes place in worlds from the silent film era.
 
+The player can use either WASD or the arrow keys.
+
 Anything not covered by the GNU GPL 3.0: This work is licensed under Attribution-ShareAlike 4.0 International
 
 <a href="https://godotengine.org/download">This game is made in this engine shown here with C# support</a>
