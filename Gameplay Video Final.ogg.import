@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bdb5dfrkier4l"
+path="res://.godot/imported/Gameplay Video Final.ogg-0261bfb7127e5e9585de608f69925f87.oggvorbisstr"
+
+[deps]
+
+source_file="res://Gameplay Video Final.ogg"
+dest_files=["res://.godot/imported/Gameplay Video Final.ogg-0261bfb7127e5e9585de608f69925f87.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
