@@ -13,6 +13,8 @@ Anything not covered by the GNU GPL 3.0: This work is licensed under Attribution
 <a href="https://daniel-hanrahan-tools-and-games.github.io/">Home Page</a>
 
 ![Screen Shot 2024-07-25 at 9 40 50 PM](https://github.com/user-attachments/assets/2b87e214-e5e1-4735-aa72-1c9ae5938ef7)
+![Screen Shot 2024-07-25 at 9 41 49 PM](https://github.com/user-attachments/assets/9b0238a0-66b9-4da4-9588-f838639aa81e)
+![Screen Shot 2024-07-25 at 9 42 54 PM](https://github.com/user-attachments/assets/1c45a3fd-9d8f-4f41-a133-d0fecd3b4f8e)
 
 
 Contributors needed.
