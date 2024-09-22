@@ -2,9 +2,11 @@
 
 This is a quick-time video game like the classic LaserDisc arcade games that take place in worlds from the silent film era or those that resemble the silent film era.
 
-The player can use either WASD or the arrow keys.
+The player can use either WASD or the arrow keys and the spacebar for the action button.
 
 Anything not covered by the GNU GPL 3.0: This work is licensed under Attribution-ShareAlike 4.0 International
+
+You need to compile this project, and to compile this project you first need to have the engine with C# support which the download link is underneath this line, second you put the Untitled Knight Game folder on your local machine, third you need to open that same folder in the engine, fourth compile the project either using the play button or something else.
 
 <a href="https://godotengine.org/download">This game is made in this engine shown here with C# support</a>
 
