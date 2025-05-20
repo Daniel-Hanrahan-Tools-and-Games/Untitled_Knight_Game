@@ -12,7 +12,7 @@ To put new files in this repository you need github desktop, Here is a link to u
 
 Before you get the engine or compiling the project, you are going to need the .net sdk and runtimes and you may want to install an older version because sometimes the latest version does not work and here is a link to the directions on how you install it on linux: https://learn.microsoft.com/en-us/dotnet/core/install/linux?WT.mc_id=dotnet-35129-website, to install an older version you change the version number to a lower number in the terminal.
 
-<a href="https://godotengine.org/download/archive/4.3-stable/">This game is made in Godot 4.3 with C# support</a>
+<a href="https://godotengine.org/download/archive/4.3-stable/">This game is made in Godot 4.3 .NET version</a>
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Untitled_Knight_Game">Repository Page</a>
 
