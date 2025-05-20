@@ -1,0 +1,28 @@
+[gd_scene load_steps=3 format=3 uid="uid://ckpl4c6i7iduy"]
+
+[ext_resource type="Script" path="res://gameplay.cs" id="1_5mlkv"]
+
+[sub_resource type="VideoStreamTheora" id="VideoStreamTheora_b2xn0"]
+file = "Gameplay Video Final.ogg"
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_5mlkv")
+
+[node name="Timer" type="Timer" parent="."]
+process_callback = 0
+wait_time = 0.25
+autostart = true
+
+[node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(0.85, 0.85)
+
+[node name="VideoStreamPlayer" type="VideoStreamPlayer" parent="."]
+offset_left = -671.0
+offset_top = -377.0
+offset_right = 672.0
+offset_bottom = 375.0
+stream = SubResource("VideoStreamTheora_b2xn0")
+autoplay = true
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
+[connection signal="finished" from="VideoStreamPlayer" to="." method="_on_video_stream_player_finished"]
