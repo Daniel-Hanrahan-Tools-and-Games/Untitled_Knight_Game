@@ -6,7 +6,7 @@ The player can use either WASD or the arrow keys and the spacebar for the action
 
 Anything not covered by the GNU GPL 3.0: This work is licensed under Attribution-ShareAlike 4.0 International
 
-You need to compile this project, and to compile this project you first need to have the engine with C# support which the download link is underneath this line, second you put the Untitled Knight Game folder on your local machine, third you need to open that same folder in the engine, fourth compile the project either using the play button or something else.
+You need to compile this project, and to compile this project you first need to have the godot engine with C#/.NET support which the download link is underneath this line, second you put the Untitled Knight Game folder on your local machine, third you need to open that same folder in the engine, fourth compile the project either using the play button or something else.
 
 To put new files in this repository you need github desktop, Here is a link to ubuntu based linux distro version of github desktop: https://gist.github.com/berkorbay/6feda478a00b0432d13f1fc0a50467f1 and whatever you do, do not use gitkraken as your github desktop replacement or linux version, it does not work.
 
